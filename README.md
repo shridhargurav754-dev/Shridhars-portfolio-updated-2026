@@ -16,9 +16,6 @@ Certificates
 
 Contact information
 
-🌐 Live Website:
-👉 https://shridhargurav754-dev.github.io
-
 📂 Project Structure
 portfolio/
 │
